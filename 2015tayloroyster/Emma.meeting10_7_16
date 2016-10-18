@@ -1,9 +1,11 @@
 ##*Skyline tutorial with Emma 10/7/2016*
 
-Downloaded WinSCP to get raw files from Emma including 1 FASTA File (background proteome), and all 16 RAW files (4 per oyster sample). See Jupyter notebook for layout: Rawoysterfiles
+Downloaded Skyline (version 3.5.0.9319) 9/27/16 
+
+Downloaded WinSCP (version 5.9.2) on 10/7/16 to get raw files from Emma including 1 FASTA File (background proteome), and all 16 RAW files (4 per oyster sample). See Jupyter notebook for layout: Rawoysterfiles
 1 PROTB File which we acquired through Skyline from the FASTA file
 
-Now, with your BLIB library file you should have everything you need to follow the slideshow tutorial for Skyline steps 2-6.
+Now, with your BLIB library file (oysterseed2.blib) you should have everything you need to follow the slideshow tutorial for Skyline steps 2-6.
 
 After you finish with Step 6 you will have imported the raw DIA data into skyline. There will be two windows open, go ahead and exit out of the one that is not your MS1 and MS2 scans for each oyster sample(Probably will show up on the right side). Instead you will want to add two more windows: Retention Times and Peak Area. Go to View>Retention times>Replicate Comparison and then View>Peak Areas>Replicate Comparison.
 
