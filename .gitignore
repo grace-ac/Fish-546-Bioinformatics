@@ -1,0 +1,15 @@
+*.tabular
+
+*.fasta
+
+*.gz
+
+*.pep
+
+*.phr
+
+*.psq
+
+*.pin
+
+*.fa
