@@ -1,5 +1,5 @@
 # Fish-546-Bioinformatics
-In this Autumn 2016 class I will be working on a class project to characterize an oyster (*Crassostrea gigas*) proteome from [Gigaton](http://gigaton.sigenae.org/ngspipelines/#!/NGSpipelines/Crassostrea gigas - GIGATON). I hope to become more familiar with the proteins that are expressed in *C. gigas* under normal conditions so I can then begin to compare proteomes between oysters reared under different conditions at our hatchery. In my class repo, I have 2-3 folders within each directory to seperate files for the class project and files for my experiments with Taylor Shellfish. Some unique files in `data\taylor` include a .blib file and a FASTA file that we are using with our raw data in Skyline to assess differences in our MS1/MS2 spectra among treatments. I'm interested to learning about Megan's project as she progresses because she is also analyzing MS1/MS2 data.
+In this Autumn 2016 class I will be working on a class project to characterize an oyster (*Crassostrea gigas*) proteome from [Gigaton](http://gigaton.sigenae.org/ngspipelines/#!/NGSpipelines/Crassostrea gigas - GIGATON). I hope to become more familiar with the proteins that are expressed in *C. gigas* under normal conditions so I can then begin to compare proteomes between oysters reared under different conditions at our hatchery. In my class repo, I have 2-3 folders within each directory to seperate files for the class project and files for my experiments with Taylor Shellfish. 
 
 ### Repository Structure:
 - `analyses`
@@ -19,7 +19,7 @@ In this Autumn 2016 class I will be working on a class project to characterize a
 - `scripts`
   - `gigas_prot`
   - `taylor`
-- `.gitignore` - list of files that are in local repo but not on Github due to large file size.
+- `.gitignore` - list of file types that are in local repo but not on Github due to large file size.
 
 ### Week 4
 For week 4 I plan to work on the output from the Blastp that I executed this week. First, I want to make sure the output file I made is complete. I plan to get more familiar with the arguments I can use while blasting to manage the output file. Specifically, learning shortcuts/alias, setting variables, identifying errors, and sorting techniques. Finally, I will seperate the pipes in my output files into tabs so I will be prepared to join tables the following week.
