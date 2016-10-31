@@ -28,4 +28,8 @@ For week 4 I plan to work on the output from the Blastp that I executed this wee
 ### Week 5
 For week 5 I want to begin joining tables from my output to identify the proteins and their functions. 
 
+1) Big Picture (what and why): Characterize _C.gigas_ proteome. Identify proteins, their functions and other organisms that express these same proteins.
 
+2) What I have done to date: Downloaded _C.gigas_ proteome and executed a blastp (protein-protein) against Uniprot database to identify proteins. I then manipulated the blast ouput file in Galaxy to merge with a Uniprot database with entry name, protein name, gene name, organism, and length. I have 26,535 unqiue proteins and their functions that are expressed in _C.gigas_.
+
+3) What I plan to do: Quantification of proteins? Find proteins that are differentially expressed in oysters under stress?
