@@ -1,5 +1,6 @@
 # Fish-546-Bioinformatics
-In this Autumn 2016 class I will be working on a class project to characterize an oyster (*Crassostrea gigas*) proteome from [Gigaton](http://gigaton.sigenae.org/ngspipelines/#!/NGSpipelines/Crassostrea gigas - GIGATON). I hope to become more familiar with the proteins that are expressed in *C. gigas* under normal conditions so I can then begin to compare proteomes between oysters reared under different conditions at our hatchery. In my class repo, I have 2-3 folders within each directory to seperate files for the class project and files for my experiments with Taylor Shellfish. 
+In this Autumn 2016 class I will be working on a project to characterize a Pacific oyster (*Crassostrea gigas*) proteome from [Gigaton](http://gigaton.sigenae.org/ngspipelines/#!/NGSpipelines/Crassostrea gigas - GIGATON). I hope to become more familiar with the functions of proteins that are expressed in *C. gigas* to better understand how these organisms physiologically respond to various stressors. For my thesis project, I want to identify proteins that are differentially expressed in juvenile oysters reared under different hatchery conditions which may give us insight into the probable cause of mass mortality events that occur. 
+In my class repo, I have 2-3 folders within each directory to seperate files for the class project and files for my experiments with Taylor Shellfish. 
 
 ### Repository Structure:
 - `analyses`
