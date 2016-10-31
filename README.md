@@ -1,4 +1,5 @@
 # Fish-546-Bioinformatics
+## Annotation of the Pacific oyster _Crassostrea gigas_ Proteome
 In this Autumn 2016 class I will be working on a project to characterize a Pacific oyster (*Crassostrea gigas*) proteome from [Gigaton](http://gigaton.sigenae.org/ngspipelines/#!/NGSpipelines/Crassostrea gigas - GIGATON). I hope to become more familiar with the functions of proteins that are expressed in *C. gigas* to better understand how these organisms physiologically respond to various stressors. For my thesis project, I want to identify proteins that are differentially expressed in juvenile oysters reared under different hatchery conditions which may give us insight into the probable cause of mass mortality events that occur. 
 In my class repo, I have 3-4 folders within each directory to seperate files for tutorials, class project and experiments with Taylor Shellfish. 
 
@@ -6,13 +7,13 @@ In my class repo, I have 3-4 folders within each directory to seperate files for
 - `analyses`
   - `Blast_tutorial` -.txt of blastoutput
   - `gigas_prot` -.PNG screenshots of Galaxy file manipulations and merge, .txt of blastoutputs, .tabular files from Galaxy manipulations
-  - `seastar`- .txt of blast outputs
+  - `seastar`- .txt of blast output, .pdf of R image, .R of DESeq2 script
   - `taylor`
 - `data`
-  - `Blast_tutorial` - .txt of blast output
-  - `gigas_prot` - .txt of blast output
-  - `seastar` - .pdf of R image, .R of script, .txt of _C.gigas_ transcriptome
-  - `taylor` - .fasta file of background proteome, and .blib library file
+  - `Blast_tutorial` - uniprot_sprot.fasta
+  - `gigas_prot` - uniprot-all.tab, .uniprot_sprot.fasta, contigs.fasta.transdecoder.pep
+  - `seastar` -  .fastafile_Microarray.txt (_C. gigas_ transcriptome)
+  - `taylor` - _C. gigas_ background proteome (oyster_v9_aa_format1.fasta) and oysterseed2.blib library file
 - `notebooks` - Directory where Ipython notebooks live
   - `Blast_tutorial`
   - `gigas_prot`
