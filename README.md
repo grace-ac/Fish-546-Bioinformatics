@@ -4,7 +4,8 @@ In my class repo, I have 3-4 folders within each directory to seperate files for
 
 ### Repository Structure:
 - `analyses`
-  - `gigas_prot` -.PNG screenshots of Galaxy file manipulations and merge
+  - `Blast_tutorial` -.txt of blastoutput
+  - `gigas_prot` -.PNG screenshots of Galaxy file manipulations and merge, .txt of blastoutputs, .tabular files from Galaxy manipulations
   - `seastar`- .txt of blast outputs
   - `taylor`
 - `data`
@@ -22,11 +23,26 @@ In my class repo, I have 3-4 folders within each directory to seperate files for
   - `taylor`
 - `.gitignore` - list of file types that are in local repo but not on Github due to large file size.
 
+### Week 0
+Got aquainted with Github. Installed bash and became familiar with markdown and Unix shell.
+
+### Week 1
+Created my course repo and learned about project documentation through Jupyter notebooks.
+
+### Week 2
+Learned about bash commands and blast. Found dataset to work with for class project.
+
+### Week 3
+Organized repo and blasted oyster proteome against uniprot database.
+
 ### Week 4
-For week 4 I plan to work on the output from the Blastp that I executed this week. First, I want to make sure the output file I made is complete. I plan to get more familiar with the arguments I can use while blasting to manage the output file. Specifically, learning shortcuts/alias, setting variables, identifying errors, and sorting techniques. Finally, I will seperate the pipes in my output files into tabs so I will be prepared to join tables the following week.
+Worked on the output from the blastp that I executed. Used Galaxy to modify the blastoutput and merge with uniprot data base with protein names and functions.
 
 ### Week 5
-For week 5 I want to begin joining tables from my output to identify the proteins and their functions. 
+Need to ensure blast output finished in entirity. Learn more about shortcuts/alias, setting variables, identifying errors, and sorting techniques. 
+
+### Week 6
+Coming up!
 
 ### Summary
 1) Big Picture (what and why): Characterize _C.gigas_ proteome. Identify proteins, their functions and other organisms that express these same proteins.
