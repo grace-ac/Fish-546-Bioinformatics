@@ -46,7 +46,7 @@ Need to ensure blast output finished in entirity. Learn more about shortcuts/ali
 Coming up!
 
 ### Summary
-1) Big Picture (what and why): Characterize _C. gigas_ proteome. Understand protein names and functions, gene ontology, metabolic pathways, biological processes. Compare proteome to other related taxa like the geoduck or Olympia oyster to see similarities and differences across shellfish.
+1) Big Picture (what and why): Characterize _C. gigas_ proteome and understand protein names and functions, gene ontology, metabolic pathways, biological processes. How do Pacific oysters respond physiologically to various stressors? Compare proteome to other related taxa like the geoduck or Olympia oyster to see similarities and differences across shellfish.
 
 2) What I have done to date: Downloaded _C. gigas_ proteome and executed a blastp (protein-protein) against Uniprot database to identify proteins. I then manipulated the blast ouput file in Galaxy to merge with a Uniprot database with entry name, protein name, gene name, organism, and length. I have 26,535 unique proteins (evalue < 1e-5) that are expressed in _C.gigas_.
 
