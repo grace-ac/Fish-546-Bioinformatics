@@ -50,4 +50,4 @@ Coming up!
 
 2) What I have done to date: Downloaded _C. gigas_ proteome and executed a blastp (protein-protein) against Uniprot database to identify proteins. I then manipulated the blast ouput file in Galaxy to merge with a Uniprot database with entry name, protein name, gene name, organism, and length. I have 26,535 unique proteins (evalue < 1e-5) that are expressed in _C.gigas_.
 
-3) What I plan to do: Quantification of proteins? Compare proteins found in Pacific oyster to the geoduck or Olympia oyster. Find proteins that are differentially expressed in oysters under stress?
+3) What I plan to do: Compare proteins found in Pacific oyster to the geoduck or Olympia oyster. Find proteins that are differentially expressed in oysters under stress? Quantification of proteins?
