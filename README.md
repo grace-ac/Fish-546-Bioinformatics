@@ -40,7 +40,7 @@ Organized repo and blasted oyster proteome against uniprot database.
 Worked on the output from the blastp that I executed. Used Galaxy to modify the blastoutput and merge with uniprot data base with protein names and functions.
 
 ### Week 5
-Need to ensure blast output finished in entirity. Learn more about shortcuts/alias, setting variables, identifying errors, and sorting techniques. 
+Need to ensure blast output finished in entirity. Learn more about shortcuts/alias, setting variables, identifying errors, and sorting techniques. Investigate options to work on other computers.
 
 ### Week 6
 Coming up!
