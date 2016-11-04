@@ -6,12 +6,11 @@ In my class repo, I have 3-4 folders within each directory to seperate files for
 ### Repository Structure:
 - `analyses`
   - `Blast_tutorial` -.txt of blastoutput
-  - `gigas_prot` -.PNG screenshots of Galaxy file manipulations and merge, .txt of blastoutputs, .tabular files from Galaxy manipulations
-  - `seastar`- .txt of blast output, .pdf of R image, .R of DESeq2 script
-  - `taylor`
+  - `gigas_prot` -.PNG screenshots of Galaxy file manipulations and merge, .txt of blastoutputs
+  - `seastar`- .txt of blast output, .pdf of R image, .R of DESeq2 script, db files
+  - `taylor` - .PNG screenshots of Galaxy file manipulations and merge, .CSV files of proteome outputs from Skyline
 - `data`
-  - `Blast_tutorial` - uniprot_sprot.fasta
-  - `gigas_prot` - uniprot-all.tab, .uniprot_sprot.fasta, contigs.fasta.transdecoder.pep
+  - `gigas_prot` - Pgenorosa_prot.sdf (_P. genorosa_ proteome)
   - `seastar` -  .fastafile_Microarray.txt (_C. gigas_ transcriptome)
   - `taylor` - _C. gigas_ background proteome (oyster_v9_aa_format1.fasta) and oysterseed2.blib library file
 - `notebooks` - Directory where Ipython notebooks live
