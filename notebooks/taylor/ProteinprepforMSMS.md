@@ -9,7 +9,7 @@
 ### Protein quantification – BCA Assay (Pierce)
 _This can be done prior to trypsin digestion or in parallel._
 
-1.	Aliquot 11 µl of sonicated sample to a clean tube and add 22 µl NH4HCO3 to dilute urea.  Follow the microplate protocol for BCA using 10 µl of sample and Genn’s dilution curve (below).  Lysis buffer = 50 mM NH4HCO3 with 6M urea diluted 1:2.
+Aliquot 11 µl of sonicated sample to a clean tube and add 22 µl NH4HCO3 to dilute urea.  Follow the microplate protocol for BCA using 10 µl of sample and Genn’s dilution curve (below).  Lysis buffer = 50 mM NH4HCO3 with 6M urea diluted 1:2.
 
 |    Vial    |    BSA conc. (µg/µl)    |    Vol. lysis buffer (µl)    |    Vol.   BSA & dilution    |
 |------------|-------------------------|------------------------------|-----------------------------|
@@ -21,7 +21,7 @@ _This can be done prior to trypsin digestion or in parallel._
 |    G       |    0.125                |    325                       |    325,   F                 |
 |    H       |    0.025                |    400                       |    100,   G                 |
 
-2.	Use BCA protocol equations to calculate the sample volume containing 100 µg of protein. Make sure to correct for any dilutions.
+Use BCA protocol equations to calculate the sample volume containing 100 µg of protein. Make sure to correct for any dilutions.
 
 ### Mini-Trypsin digestion
 _This digestion is for total starting volume of 100 µl.  You can either aliquot the volume to equal 100 µg of protein to a new tube and add additional 6M urea in 50 mM NH4HCO3 (Step 9 - save remaining lysed cells/proteins in -80°C freezer), or digest your entire sample if it is <100 µg protein dissolved in 100 µl total volume._
@@ -49,9 +49,6 @@ Solvent A = 60% acetonitrile + 0.1% trifluoroacetic acid
 
 Solvent B = 5% acetonitrile + 0.1% trifluoroacetic acid
 
-1.	Reconstitute samples in 100 µl solvent B.  Ensure pH<2, if it isn’t, add 10 µl increments of 10% formic acid until pH<2.
-2.	Prepare spin columns – see table below for column choice.
-
 |    Column   type          |    Sample capacity(µg)    |    Elution volume (µl)    |    Bed   volume (µl)    |
 |---------------------------|---------------------------|---------------------------|-------------------------|
 |    UltraMicro   Spin      |    0.03-30                |    5-25                   |    50                   |
@@ -60,6 +57,8 @@ Solvent B = 5% acetonitrile + 0.1% trifluoroacetic acid
 |    96-well   MiniSpin     |    0.03-100               |    30-50                  |    100                  |
 |    96-well   MACROspin    |    0.03-300               |    60-150                 |    300                  |
 
+1.	Reconstitute samples in 100 µl solvent B.  Ensure pH<2, if it isn’t, add 10 µl increments of 10% formic acid until pH<2.
+2.	Prepare spin columns – see table above for column choice.
 3.	Wash column: Add 200 µl solvent A to columns, spin for 2000 rpm 3 minutes (repeat 3 times)
 4.	Equilibrate column: Add 200 µl solvent B to columns, spin for 2000 rpm for 3 minutes (repeat 2 times)
 5.	Load protein on column: Add 100 µg of protein digest (1 sample per column).  Spin at 3000 rpm for 3 minutes.  Collect flow-through, put back on column and spin again.
