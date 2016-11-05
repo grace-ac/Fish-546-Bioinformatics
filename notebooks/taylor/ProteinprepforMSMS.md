@@ -1,14 +1,15 @@
-Protein Preperation for MSMS protocol
+## Protein Preperation for MSMS protocol
 
-Sonication
+### Sonication
 1.	Add 100 µl 6M urea in 50 mM NH4HCO3 (ammonium bicarbonate)
 2.	Sonicate each sample for 10s, chilling in ethanol + dry ice for 5s and storing on wet ice between sonications.  Repeat twice for each sample (total of 3 times).
 3.	Between samples, rinse the sonicating probe with ethanol and nanopure water.
 4.	Store at -80°C if not moving directly to sample digestion.
 
-Protein quantification – BCA Assay (Pierce)
+### Protein quantification – BCA Assay (Pierce)
 This can be done prior to trypsin digestion or in parallel.
 1.	Aliquot 11 µl of sonicated sample to a clean tube and add 22 µl NH4HCO3 to dilute urea.  Follow the microplate protocol for BCA using 10 µl of sample and Genn’s dilution curve (below).  Lysis buffer = 50 mM NH4HCO3 with 6M urea diluted 1:2.
+
 |    Vial    |    BSA conc. (µg/µl)    |    Vol. lysis buffer (µl)    |    Vol.   BSA & dilution    |
 |------------|-------------------------|------------------------------|-----------------------------|
 |    B       |    1.5                  |    125                       |    375,   stock             |
@@ -18,9 +19,10 @@ This can be done prior to trypsin digestion or in parallel.
 |    F       |    0.25                 |    325                       |    325,   E                 |
 |    G       |    0.125                |    325                       |    325,   F                 |
 |    H       |    0.025                |    400                       |    100,   G                 |
+
 2.	Use BCA protocol equations to calculate the sample volume containing 100 µg of protein. Make sure to correct for any dilutions.
 
-Mini-Trypsin digestion
+### Mini-Trypsin digestion
 This digestion is for total starting volume of 100 µl.  You can either aliquot the volume to equal 100 µg of protein to a new tube and add additional 6M urea in 50 mM NH4HCO3 (Step 9 - save remaining lysed cells/proteins in -80°C freezer), or digest your entire sample if it is <100 µg protein dissolved in 100 µl total volume.
 1.	Add 6.6 µl of 1.5 M Tris pH 8.8
 2.	Add 2.5 µl 200 mM TCEP and vortex
@@ -40,11 +42,12 @@ a.	For 100 µg total protein in a sample, add 333 ng of ApoA1 by adding 6.7 µl 
 15.	Incubate overnight at room temperature or for 4 hours at 37°C. 
 16.	Evaporate samples at 4°C to near dryness on speed vacuum (<20 µl). Store at -80°C.
 
-Desalting
+### Desalting
 Solvent A = 60% acetonitrile + 0.1% trifluoroacetic acid
 Solvent B = 5% acetonitrile + 0.1% trifluoroacetic acid
 1.	Reconstitute samples in 100 µl solvent B.  Ensure pH<2, if it isn’t, add 10 µl increments of 10% formic acid until pH<2.
 2.	Prepare spin columns – see table below for column choice.
+
 |    Column   type          |    Sample capacity(µg)    |    Elution volume (µl)    |    Bed   volume (µl)    |
 |---------------------------|---------------------------|---------------------------|-------------------------|
 |    UltraMicro   Spin      |    0.03-30                |    5-25                   |    50                   |
