@@ -7,7 +7,8 @@
 4.	Store at -80°C if not moving directly to sample digestion.
 
 ### Protein quantification – BCA Assay (Pierce)
-This can be done prior to trypsin digestion or in parallel.
+_This can be done prior to trypsin digestion or in parallel._
+
 1.	Aliquot 11 µl of sonicated sample to a clean tube and add 22 µl NH4HCO3 to dilute urea.  Follow the microplate protocol for BCA using 10 µl of sample and Genn’s dilution curve (below).  Lysis buffer = 50 mM NH4HCO3 with 6M urea diluted 1:2.
 
 |    Vial    |    BSA conc. (µg/µl)    |    Vol. lysis buffer (µl)    |    Vol.   BSA & dilution    |
@@ -23,7 +24,8 @@ This can be done prior to trypsin digestion or in parallel.
 2.	Use BCA protocol equations to calculate the sample volume containing 100 µg of protein. Make sure to correct for any dilutions.
 
 ### Mini-Trypsin digestion
-This digestion is for total starting volume of 100 µl.  You can either aliquot the volume to equal 100 µg of protein to a new tube and add additional 6M urea in 50 mM NH4HCO3 (Step 9 - save remaining lysed cells/proteins in -80°C freezer), or digest your entire sample if it is <100 µg protein dissolved in 100 µl total volume.
+_This digestion is for total starting volume of 100 µl.  You can either aliquot the volume to equal 100 µg of protein to a new tube and add additional 6M urea in 50 mM NH4HCO3 (Step 9 - save remaining lysed cells/proteins in -80°C freezer), or digest your entire sample if it is <100 µg protein dissolved in 100 µl total volume._
+
 1.	Add 6.6 µl of 1.5 M Tris pH 8.8
 2.	Add 2.5 µl 200 mM TCEP and vortex
 3.	Test pH of samples to make sure they are still basic.
@@ -44,7 +46,9 @@ a.	For 100 µg total protein in a sample, add 333 ng of ApoA1 by adding 6.7 µl 
 
 ### Desalting
 Solvent A = 60% acetonitrile + 0.1% trifluoroacetic acid
+
 Solvent B = 5% acetonitrile + 0.1% trifluoroacetic acid
+
 1.	Reconstitute samples in 100 µl solvent B.  Ensure pH<2, if it isn’t, add 10 µl increments of 10% formic acid until pH<2.
 2.	Prepare spin columns – see table below for column choice.
 
