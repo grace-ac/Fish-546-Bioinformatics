@@ -1,5 +1,8 @@
 ### Protein Preparation Notes 
 
+Imformation collected from Thermo-Fisher
+https://www.thermofisher.com/us/en/home/life-science/protein-biology/protein-biology-learning-center/protein-biology-resource-library/pierce-protein-methods/sample-preparation-mass-spectrometry.html
+
 __Sonication__ (applies sound energy to break down cells)
 - Physical lysis is common method of cell disruption and extraction of cellular contents. Physical lysis not able to solubilize membrane-associated proteins.
 - Reagent-based lysis methods using detergents not only lyse cells but solubilize proteins.
