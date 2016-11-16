@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Session genome="http://owl.fish.washington.edu/halfshell/2016-11-oly-annotation/Ostrea_lurida-Scaff-10k.fa" hasGeneTrack="false" hasSequenceTrack="true" locus="scaffold40949:8800-27542" path="C:\Users\rhondae\Documents\GitHub\Fish-546-Bioinformatics\analyses\igv_exercise\igv-session_2016-11-14.xml" version="8">
+    <Resources>
+        <Resource path="http://owl.fish.washington.edu/halfshell/2016-11-oly-annotation/1_ATCACG.igv"/>
+        <Resource path="http://owl.fish.washington.edu/halfshell/2016-11-oly-annotation/CCGG-fuzz-Ostrea_lurida-Scaff-10k.gff"/>
+        <Resource path="http://owl.fish.washington.edu/halfshell/2016-11-oly-annotation/SS3-15_CGATGT-TCAGCAC_L002.bam"/>
+        <Resource path="http://owl.fish.washington.edu/halfshell/2016-11-oly-annotation/RM-sb-Ostrea_lurida-Scaff-10k.fa.out.gff"/>
+        <Resource path="http://owl.fish.washington.edu/halfshell/2016-11-oly-annotation/CG-fuzz-Ostrea_lurida-Scaff-10k.gff"/>
+        <Resource path="http://owl.fish.washington.edu/halfshell/2016-11-oly-annotation/SS3-14_GGCTAC-GACGT_L002.bam"/>
+        <Resource path="http://owl.fish.washington.edu/halfshell/2016-11-oly-annotation/Olyv6_blastn-Scaff-10k.gff"/>
+        <Resource path="http://owl.fish.washington.edu/halfshell/2016-11-oly-annotation/RM-Ostrea_lurida-Scaff-10k.fa.out.gff"/>
+        <Resource path="http://owl.fish.washington.edu/halfshell/2016-11-oly-annotation/108A_Male.bedgraph.tdf"/>
+        <Resource path="http://owl.fish.washington.edu/halfshell/2016-11-oly-annotation/SS3-3_TTAGGC-GATCTCT_L002.bam"/>
+        <Resource path="http://owl.fish.washington.edu/halfshell/2016-11-oly-annotation/2bRAD-BSmatch.bedgraph"/>
+        <Resource path="http://owl.fish.washington.edu/halfshell/2016-11-oly-annotation/108A_Female.bedgraph.tdf"/>
+        <Resource path="http://owl.fish.washington.edu/halfshell/2016-11-oly-annotation/106A_Male.bedgraph.tdf"/>
+        <Resource path="http://owl.fish.washington.edu/halfshell/2016-11-oly-annotation/106A_Female.bedgraph.tdf"/>
+        <Resource path="http://owl.fish.washington.edu/halfshell/2016-11-oly-annotation/2bRAD-BSmatch.bam"/>
+    </Resources>
+    <Panel height="240" name="DataPanel" width="1347">
+        <Track altColor="0,0,178" autoScale="true" clazz="org.broad.igv.track.DataSourceTrack" color="255,204,204" colorScale="ContinuousColorScale;0.0;25.30769157409668;255,255,255;255,204,204" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="http://owl.fish.washington.edu/halfshell/2016-11-oly-annotation/108A_Female.bedgraph.tdf" name="108A_Female.bedgraph.tdf" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="25.52381" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="true" clazz="org.broad.igv.track.DataSourceTrack" color="204,204,255" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="http://owl.fish.washington.edu/halfshell/2016-11-oly-annotation/108A_Male.bedgraph.tdf" name="108A_Male.bedgraph.tdf" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="25.952381" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="true" clazz="org.broad.igv.track.DataSourceTrack" color="255,204,204" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="http://owl.fish.washington.edu/halfshell/2016-11-oly-annotation/106A_Female.bedgraph.tdf" name="106A_Female.bedgraph.tdf" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="21.47826" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="true" clazz="org.broad.igv.track.DataSourceTrack" color="204,204,255" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="http://owl.fish.washington.edu/halfshell/2016-11-oly-annotation/106A_Male.bedgraph.tdf" name="106A_Male.bedgraph.tdf" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="24.25926" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="true" clazz="org.broad.igv.track.DataSourceTrack" color="0,102,0" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="http://owl.fish.washington.edu/halfshell/2016-11-oly-annotation/2bRAD-BSmatch.bedgraph" name="2bRAD-BSmatch.bedgraph" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="1142.0" minimum="0.0" type="LOG"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.DataSourceTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="http://owl.fish.washington.edu/halfshell/2016-11-oly-annotation/1_ATCACG.igv_0.000" name="0.000" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="1.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+    </Panel>
+    <Panel height="60" name="Panel1479138719603" width="1347">
+        <Track altColor="0,0,178" autoScale="true" color="175,175,175" colorScale="ContinuousColorScale;0.0;2795.0;255,255,255;175,175,175" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" height="60" id="http://owl.fish.washington.edu/halfshell/2016-11-oly-annotation/2bRAD-BSmatch.bam_coverage" name="2bRAD-BSmatch.bam Coverage" showReference="false" snpThreshold="0.2" sortable="true" visible="true">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="1142.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+    </Panel>
+    <Panel height="999" name="Panel1479254515627" width="1347">
+        <Track altColor="0,0,178" autoScale="true" color="175,175,175" colorScale="ContinuousColorScale;0.0;10.0;255,255,255;175,175,175" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="http://owl.fish.washington.edu/halfshell/2016-11-oly-annotation/SS3-3_TTAGGC-GATCTCT_L002.bam_coverage" name="SS3-3_TTAGGC-GATCTCT_L002.bam Coverage" showReference="false" snpThreshold="0.2" sortable="true" visible="true">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="66.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.FeatureTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" height="60" id="http://owl.fish.washington.edu/halfshell/2016-11-oly-annotation/SS3-3_TTAGGC-GATCTCT_L002.bam_junctions" name="SS3-3_TTAGGC-GATCTCT_L002.bam Junctions" sortable="false" visible="false" windowFunction="count">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="60.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" color="0,0,178" displayMode="EXPANDED" featureVisibilityWindow="-1" fontSize="10" id="http://owl.fish.washington.edu/halfshell/2016-11-oly-annotation/SS3-3_TTAGGC-GATCTCT_L002.bam" name="SS3-3_TTAGGC-GATCTCT_L002.bam" sortable="true" visible="true">
+            <RenderOptions colorByTag="" colorOption="UNEXPECTED_PAIR" flagUnmappedPairs="false" groupByTag="" maxInsertSize="1000" minInsertSize="50" shadeBasesOption="QUALITY" shadeCenters="true" showAllBases="false" sortByTag=""/>
+        </Track>
+    </Panel>
+    <Panel height="1223" name="Panel1479254714162" width="1347">
+        <Track altColor="0,0,178" autoScale="true" color="175,175,175" colorScale="ContinuousColorScale;0.0;10.0;255,255,255;175,175,175" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="http://owl.fish.washington.edu/halfshell/2016-11-oly-annotation/SS3-14_GGCTAC-GACGT_L002.bam_coverage" name="SS3-14_GGCTAC-GACGT_L002.bam Coverage" showReference="false" snpThreshold="0.2" sortable="true" visible="true">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="82.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.FeatureTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" height="60" id="http://owl.fish.washington.edu/halfshell/2016-11-oly-annotation/SS3-14_GGCTAC-GACGT_L002.bam_junctions" name="SS3-14_GGCTAC-GACGT_L002.bam Junctions" sortable="false" visible="false" windowFunction="count">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="60.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" color="0,0,178" displayMode="EXPANDED" featureVisibilityWindow="-1" fontSize="10" id="http://owl.fish.washington.edu/halfshell/2016-11-oly-annotation/SS3-14_GGCTAC-GACGT_L002.bam" name="SS3-14_GGCTAC-GACGT_L002.bam" sortable="true" visible="true">
+            <RenderOptions colorByTag="" colorOption="UNEXPECTED_PAIR" flagUnmappedPairs="false" groupByTag="" maxInsertSize="1000" minInsertSize="50" shadeBasesOption="QUALITY" shadeCenters="true" showAllBases="false" sortByTag=""/>
+        </Track>
+    </Panel>
+    <Panel height="1349" name="Panel1479254776680" width="1347">
+        <Track altColor="0,0,178" autoScale="true" color="175,175,175" colorScale="ContinuousColorScale;0.0;10.0;255,255,255;175,175,175" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="http://owl.fish.washington.edu/halfshell/2016-11-oly-annotation/SS3-15_CGATGT-TCAGCAC_L002.bam_coverage" name="SS3-15_CGATGT-TCAGCAC_L002.bam Coverage" showReference="false" snpThreshold="0.2" sortable="true" visible="true">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="91.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.FeatureTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" height="60" id="http://owl.fish.washington.edu/halfshell/2016-11-oly-annotation/SS3-15_CGATGT-TCAGCAC_L002.bam_junctions" name="SS3-15_CGATGT-TCAGCAC_L002.bam Junctions" sortable="false" visible="false" windowFunction="count">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="60.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" color="0,0,178" displayMode="EXPANDED" featureVisibilityWindow="-1" fontSize="10" id="http://owl.fish.washington.edu/halfshell/2016-11-oly-annotation/SS3-15_CGATGT-TCAGCAC_L002.bam" name="SS3-15_CGATGT-TCAGCAC_L002.bam" sortable="true" visible="true">
+            <RenderOptions colorByTag="" colorOption="UNEXPECTED_PAIR" flagUnmappedPairs="false" groupByTag="" maxInsertSize="1000" minInsertSize="50" shadeBasesOption="QUALITY" shadeCenters="true" showAllBases="false" sortByTag=""/>
+        </Track>
+    </Panel>
+    <Panel height="200" name="FeaturePanel" width="1347">
+        <Track altColor="0,0,178" autoScale="false" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="Reference sequence" name="Reference sequence" sortable="false" visible="true"/>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.FeatureTrack" color="0,0,178" colorScale="ContinuousColorScale;0.0;42.0;255,255,255;0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="http://owl.fish.washington.edu/halfshell/2016-11-oly-annotation/Olyv6_blastn-Scaff-10k.gff" name="Olyv6_blastn-Scaff-10k.gff" renderer="BASIC_FEATURE" sortable="false" visible="true" windowFunction="count">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="42.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.FeatureTrack" color="0,0,178" colorScale="ContinuousColorScale;0.0;5.0;255,255,255;0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="http://owl.fish.washington.edu/halfshell/2016-11-oly-annotation/RM-Ostrea_lurida-Scaff-10k.fa.out.gff" name="RM-Ostrea_lurida-Scaff-10k.fa.out.gff" renderer="BASIC_FEATURE" sortable="false" visible="true" windowFunction="count">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="5.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.FeatureTrack" color="0,0,178" colorScale="ContinuousColorScale;0.0;7.0;255,255,255;0,0,178" displayMode="SQUISHED" featureVisibilityWindow="-1" fontSize="10" id="http://owl.fish.washington.edu/halfshell/2016-11-oly-annotation/RM-sb-Ostrea_lurida-Scaff-10k.fa.out.gff" name="RM-sb-Ostrea_lurida-Scaff-10k.fa.out.gff" renderer="BASIC_FEATURE" sortable="false" visible="true" windowFunction="count">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="7.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.FeatureTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="1000000" fontSize="10" id="http://owl.fish.washington.edu/halfshell/2016-11-oly-annotation/CG-fuzz-Ostrea_lurida-Scaff-10k.gff" name="CG-fuzz-Ostrea_lurida-Scaff-10k.gff" renderer="BASIC_FEATURE" sortable="false" visible="true" windowFunction="count"/>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.FeatureTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="4457616" fontSize="10" id="http://owl.fish.washington.edu/halfshell/2016-11-oly-annotation/CCGG-fuzz-Ostrea_lurida-Scaff-10k.gff" name="CCGG-fuzz-Ostrea_lurida-Scaff-10k.gff" renderer="BASIC_FEATURE" sortable="false" visible="true" windowFunction="count"/>
+    </Panel>
+    <PanelLayout dividerFractions="0.16869918699186992,0.20934959349593496,0.42073170731707316,0.6321138211382114,0.8434959349593496"/>
+    <HiddenAttributes>
+        <Attribute name="DATA FILE"/>
+        <Attribute name="DATA TYPE"/>
+        <Attribute name="NAME"/>
+    </HiddenAttributes>
+</Session>
