@@ -1,2 +1,4 @@
 #!/bin/bash
-!pwd
+pwd
+ls
+cd C:/Users/rhondae/Documents
