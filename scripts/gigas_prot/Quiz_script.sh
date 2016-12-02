@@ -33,7 +33,7 @@ echo confirms creation of directory
 
 
 #finding JPEG or PNG files
-find *.JPG *.PNG -print0| xargs -I '{}' mv '{}' Galaxy_screenshots
+find *.JPG *.PNG -print0 | xargs -I '{}' mv '{}' Galaxy_screenshots
 echo finding JPEG and PNG files and moving them to Galaxy_screenshots
 
 
