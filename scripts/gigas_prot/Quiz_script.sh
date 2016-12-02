@@ -12,9 +12,6 @@ set -o pipefail #if any program returns a nonzero exit status in the pipe it wil
 echo set variables
 directoryname="Galaxy_screenshot"
 
-
-
-
 if [ $? -ne 0 ] #place holder for all statements executed if [commands] evaluated are true (0)
 
 then #commands to run if "pattern" is found
@@ -23,4 +20,5 @@ then #commands to run if "pattern" is found
 fi #finished
 
 #make a directory
-mkdir
+mkdir "$directoryname"
+
