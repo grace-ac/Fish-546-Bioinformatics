@@ -21,4 +21,7 @@ fi #finished
 
 #make a directory
 mkdir "$directoryname"
+echo confirms creation of directory
+
+ls
 
