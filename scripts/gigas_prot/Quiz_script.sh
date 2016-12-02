@@ -10,7 +10,7 @@ set -o pipefail #if any program returns a nonzero exit status in the pipe it wil
 
 #set variables
 echo set variables
-directoryname="Galaxy_screenshot"
+directoryname="Galaxy_screenshots"
 
 if [ $? -ne 0 ] #place holder for all statements executed if [commands] evaluated are true (0)
 
@@ -24,4 +24,6 @@ mkdir "$directoryname"
 echo confirms creation of directory
 
 ls
+echo listing files in current directory
+
 
