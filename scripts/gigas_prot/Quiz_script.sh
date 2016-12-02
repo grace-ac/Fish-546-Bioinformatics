@@ -30,3 +30,8 @@ echo confirms creation of directory
 echo listing files in current directory
 ls
 
+#finding JPEG or PNG files
+find -name "*.JPEG" "*.PNG"
+echo finding JPEG and PNG files
+
+
