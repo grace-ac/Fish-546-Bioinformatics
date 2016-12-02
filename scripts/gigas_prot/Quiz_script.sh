@@ -31,7 +31,8 @@ echo listing files in current directory
 ls
 
 #finding JPEG or PNG files
-find -name "*.JPEG" "*.PNG"
+find -name "/*.JPG" "/*.PNG"
 echo finding JPEG and PNG files
+
 
 
