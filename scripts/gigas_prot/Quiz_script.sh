@@ -12,6 +12,9 @@ set -o pipefail #if any program returns a nonzero exit status in the pipe it wil
 echo change working directory
 cd C:/Users/rhondae/Documents/Github/Fish-546-Bioinformatics/analyses/taylor
 
+echo listing files in current directory
+ls
+
 #set variables
 echo set variables
 directoryname="Galaxy_screenshots"
@@ -27,11 +30,10 @@ fi #finished
 mkdir "$directoryname"
 echo confirms creation of directory
 
-echo listing files in current directory
-ls
+
 
 #finding JPEG or PNG files
-find -name "/*.JPG" "/*.PNG"
+find *.JPG *.PNG
 echo finding JPEG and PNG files
 
 
