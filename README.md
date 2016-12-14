@@ -7,19 +7,24 @@ In my class repo, I have 3-4 folders within each directory to seperate files for
 - `analyses`
   - `Blast_tutorial` -.txt of blastoutput
   - `gigas_prot` -.PNG screenshots of Galaxy file manipulations and merge, .txt of blastoutputs
+  - `igv_excercise` -XML of data
+  - `methylation_quiz` -PNGs from CoGe
   - `seastar`- .txt of blast output, .pdf of R image, .R of DESeq2 script, db files
-  - `taylor` - .PNG screenshots of Galaxy file manipulations and merge, .CSV files of proteome outputs from Skyline
+  - `taylor` - .PNG and .JPG screenshots of Galaxy file manipulations and Revigo analyses, .CSV files of proteome outputs from Skyline, .tab and .txt files from Galaxy file manipulations
 - `data`
   - `gigas_prot` - Pgenorosa_prot.sdf (_P. genorosa_ proteome)
-  - `seastar` -  .fastafile_Microarray.txt (_C. gigas_ transcriptome)
+  - `methylation_quiz` - BAM and other files from CoGE, .PNG screenshots
+  - `seastar` - .fastafile_Microarray.txt (_C. gigas_ transcriptome)
   - `taylor` - _C. gigas_ background proteome (oyster_v9_aa_format1.fasta) and oysterseed2.blib library file
 - `notebooks` - Directory where Ipython notebooks live
   - `Blast_tutorial`
   - `gigas_prot`
+  - `methylation_quiz`
+  - `script_quiz`
   - `seastar`
   - `taylor`
 - `scripts`
-  - `gigas_prot`
+  - `gigas_prot` - .SH files
   - `taylor`
 - `.gitignore` - list of file types that are in local repo but not on Github due to large file size.
 
