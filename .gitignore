@@ -1,4 +1,3 @@
-*.tabular
 
 *.fasta
 
@@ -13,8 +12,6 @@
 *.pin
 
 *.fa
-
-*.tab
 
 *.nhr
 
