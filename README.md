@@ -23,6 +23,9 @@ In my class repo, I have 3-4 folders within each directory to seperate files for
   - `taylor`
 - `.gitignore` - list of file types that are in local repo but not on Github due to large file size.
 
+### Summary
+Big Picture (what and why): Characterize _C. gigas_ proteome and understand protein names and functions, gene ontology, metabolic pathways, biological processes. How do Pacific oysters respond physiologically to various stressors? Compare proteome to other related taxa like the geoduck to see similarities and differences across shellfish.
+
 ### Week 0
 Got aquainted with Github. Installed bash and became familiar with markdown and Unix shell.
 
@@ -39,14 +42,39 @@ Organized repo and blasted oyster proteome against uniprot database.
 Worked on the output from the blastp that I executed. Used Galaxy to modify the blastoutput and merge with uniprot data base with protein names and functions.
 
 ### Week 5
-Need to ensure blast output finished in entirity. Learn more about shortcuts/alias, setting variables, identifying errors, and sorting techniques. Investigate options to work on other computers.
+Made sure blast output finished in entirity. Learned more about shortcuts/alias, setting variables, identifying errors, and sorting techniques.
 
 ### Week 6
-Coming up!
+Compared geoduck proteome to Pacific oyster proteome. I created a database from the geoduck proteome and blasted the Pacific oyster proteome against it. Found similarly expressed proteins and made a CSV table.
 
-### Summary
-1) Big Picture (what and why): Characterize _C. gigas_ proteome and understand protein names and functions, gene ontology, metabolic pathways, biological processes. How do Pacific oysters respond physiologically to various stressors? Compare proteome to other related taxa like the geoduck or Olympia oyster to see similarities and differences across shellfish.
+### Week 7
+Used Galaxy for file manipulations for the raw MSMS 2015 oyster seed experiments. I wanted to look at differentially expressed proteins in oysters reared under different temperatures, as well as assess protein expression levels.
 
-2) What I have done to date: Downloaded _C. gigas_ proteome and executed a blastp (protein-protein) against Uniprot database to identify proteins. I then manipulated the blast ouput file in Galaxy to merge with a Uniprot database with entry name, protein name, gene name, organism, and length. I have 26,535 unique proteins (evalue < 1e-5) that are expressed in _C.gigas_.
+### Week 8
+Make some graphics for the taylor experiments or the geoduck/oyster proteome comparisons.
 
-3) What I plan to do: Compare proteins found in Pacific oyster to the geoduck or Olympia oyster. Find proteins that are differentially expressed in oysters under stress? Quantification of proteins?
+### Week 9
+Continued analyzing the MSMS data and manipulating files in Galaxy.
+
+### Week 10
+Finished up final projects and worked on the final files I am publishing:
+
+_My original goals were to:_
+
+1) Identify proteins and their functions in C. gigas proteome
+- TAB file with protein names, GO terms, e-values, etc.
+- JPG with visualization from Revigo based on GO terms.
+
+2) Compare an oyster proteome to another bivalve- the geoduck
+- CSV file with table of proteins and GO terms that are shared between these two bivalve species
+- TAB files with unique proteins specific to each organism
+- JPG that visualizes the data
+
+3) Draw conclusions about differential protein expression in oysters reared at 23C and 29C from 2015 MS/MS data.
+- TAB file listing unique proteins and their function between the two treatments.
+- TAB file with protein expression levels (in this case peak area).
+- JPG that visualizes differences in protein expression between these two treatments
+
+
+
+
