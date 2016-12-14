@@ -80,16 +80,16 @@ __My original goals were to:__
 - JPG that visualizes differences in protein expression between these two treatments
 
   - __Oysters at 23C at Day 5__ 
-(CateGOrizer)[https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/oyster1cateGOrizer.pdf] ![ReviGO](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/RevigoOyster1.JPG?raw=true)
+[CateGOrizer](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/oyster1cateGOrizer.pdf) ![ReviGO](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/RevigoOyster1.JPG?raw=true)
 
   - __Oysters at 29C at Day 5__ 
-(CateGOrizer)[https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/oyster2cateGOrizer.pdf] ![ReviGO](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/RevigoOyster2.JPG?raw=true)
+[CateGOrizer](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/oyster2cateGOrizer.pdf) ![ReviGO](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/RevigoOyster2.JPG?raw=true)
 
   - __Oysters at 23C at Day 8__ 
-(CateGOrizer)[https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/oyster13cateGOrizer.pdf] ![ReviGO](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/RevigoOyster13.JPG?raw=true)
+[CateGOrizer](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/oyster13cateGOrizer.pdf) ![ReviGO](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/RevigoOyster13.JPG?raw=true)
 
   - __Oysters at 29C at Day 8__ 
-(CateGOrizer)[https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/oyster14cateGOrizer.pdf] ![ReviGO](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/RevigoOyster14.JPG?raw=true)
+[CateGOrizer](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/oyster14cateGOrizer.pdf) ![ReviGO](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/RevigoOyster14.JPG?raw=true)
 
 
 
