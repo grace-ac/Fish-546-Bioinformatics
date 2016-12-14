@@ -1,4 +1,6 @@
 
+uniprot-all.tab
+
 *.fasta
 
 *.gz
