@@ -64,7 +64,7 @@ Continued analyzing the MSMS data and manipulating files in Galaxy.
 ### Week 10
 Finished up final projects and worked on the final files I am publishing:
 
-## My goals for this course:__
+## My goals for this course:
 
 1) Identify proteins and their functions in C. gigas proteome
 - TAB file with protein names, GO terms, e-values, etc. [C. gigas GO terms](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/gigas_prot/C_gigas_GOterms.tabular) 
@@ -79,17 +79,13 @@ Finished up final projects and worked on the final files I am publishing:
 - TAB files listing unique proteins, their functions, and expression levels (in this case peak area) for each sample. [23C oysters at Day 5](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/2015oyster1_23CDay5.tabular), [29C oysters at Day 5](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/2015oyster2_29CDay5.tabular), [23C oysters at Day 8](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/2015oyster13_23CDay8.tabular), [29C oysters at Day 8](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/2015oyster14_29CDay8.tabular)
 - JPGs that visualize differences in protein expression between these two treatments
 
-  - ### __Oysters at 23C at Day 5__ 
-[CateGOrizer](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/oyster1cateGOrizer.pdf) ![ReviGO](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/RevigoOyster1.JPG?raw=true)
+  - #### __Oysters at 23C at Day 5__ [See CateGOrizer](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/oyster1cateGOrizer.pdf) ![ReviGO](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/RevigoOyster1.JPG?raw=true)
 
-  - ### __Oysters at 29C at Day 5__ 
-[CateGOrizer](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/oyster2cateGOrizer.pdf) ![ReviGO](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/RevigoOyster2.JPG?raw=true)
+  - #### __Oysters at 29C at Day 5__ [See CateGOrizer](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/oyster2cateGOrizer.pdf) ![ReviGO](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/RevigoOyster2.JPG?raw=true)
 
-  - ### __Oysters at 23C at Day 8__ 
-[CateGOrizer](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/oyster13cateGOrizer.pdf) ![ReviGO](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/RevigoOyster13.JPG?raw=true)
+  - #### __Oysters at 23C at Day 8__ [See CateGOrizer](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/oyster13cateGOrizer.pdf) ![ReviGO](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/RevigoOyster13.JPG?raw=true)
 
-  - ### __Oysters at 29C at Day 8__ 
-[CateGOrizer](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/oyster14cateGOrizer.pdf) ![ReviGO](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/RevigoOyster14.JPG?raw=true)
+  - #### __Oysters at 29C at Day 8__ [See CateGOrizer](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/oyster14cateGOrizer.pdf) ![ReviGO](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/RevigoOyster14.JPG?raw=true)
 
 
 
