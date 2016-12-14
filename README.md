@@ -59,7 +59,7 @@ Continued analyzing the MSMS data and manipulating files in Galaxy.
 ### Week 10
 Finished up final projects and worked on the final files I am publishing:
 
-_My original goals were to:_
+__My original goals were to:__
 
 1) Identify proteins and their functions in C. gigas proteome
 - TAB file with protein names, GO terms, e-values, etc. [C. gigas GO terms](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/gigas_prot/C_gigas_GOterms.tabular) 
@@ -67,12 +67,11 @@ _My original goals were to:_
 
 2) Compare an oyster proteome to another bivalve- the geoduck
 - CSV file with table of proteins and GO terms that are shared between these two bivalve species [C. gigas and P. genorosa table](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/gigas_prot/Cgig_Pgen_table.xlsx)
-- TAB files with unique proteins specific to each organism [C. gigas](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/gigas_prot/blastoutput4.txt), [P. genorosa](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/gigas_prot/blastoutput_pgen.txt)
+- TXT files with unique proteins specific to each organism [C. gigas](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/gigas_prot/blastoutput4.txt), [P. genorosa](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/gigas_prot/blastoutput_pgen.txt)
 - JPG that visualizes the data [Venn Diagram](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/gigas_prot/Venn_oyster_geoduck.JPG)
 
 3) Draw conclusions about differential protein expression in oysters reared at 23C and 29C from 2015 MS/MS data.
-- TAB files listing unique proteins and their function for each sample. [23C oysters at Day 5](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/2015oyster1_23CDay5.tabular), [29C oysters at Day 5](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/2015oyster2_29CDay5.tabular), [23C oysters at Day 8](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/2015oyster13_23CDay8.tabular), [29C oysters at Day 8](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/2015oyster14_29CDay8.tabular)
-- TAB file with protein expression levels (in this case peak area).
+- TAB files listing unique proteins, their functions, and expression levels (in this case peak area) for each sample. [23C oysters at Day 5](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/2015oyster1_23CDay5.tabular), [29C oysters at Day 5](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/2015oyster2_29CDay5.tabular), [23C oysters at Day 8](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/2015oyster13_23CDay8.tabular), [29C oysters at Day 8](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/2015oyster14_29CDay8.tabular)
 - JPG that visualizes differences in protein expression between these two treatments
 
 
