@@ -1,6 +1,6 @@
 #
 # ABACUS parameter file
-# Generated on: 2016Dec27_1312
+# Generated on: 2017Feb07_1919
 #
 
 # Name to give the database
@@ -60,4 +60,4 @@ asNSAF=false
 decoyTag=rev_
 
 # Output format that will be produced by this parameter file
-output=Default
+output=Qspec
