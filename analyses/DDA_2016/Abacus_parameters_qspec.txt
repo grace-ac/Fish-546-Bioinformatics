@@ -13,7 +13,7 @@ combinedFile=/home/srlab/Documents/rhonda/./interact-COMBINED.prot.xml
 srcDir=/home/srlab/Documents/rhonda
 
 # The name of the file where results will be saved to
-outputFile=/home/srlab/Documents/rhonda/ABACUS_output.tsv
+outputFile=/home/srlab/Documents/rhonda/ABACUS_output_qspec.tsv
 
 # The minimum PeptideProphet score the best peptide match of a protein must have
 maxIniProbTH=0.99
