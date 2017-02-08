@@ -60,4 +60,4 @@ asNSAF=false
 decoyTag=rev_
 
 # Output format that will be produced by this parameter file
-output=default
+output=Qspec
