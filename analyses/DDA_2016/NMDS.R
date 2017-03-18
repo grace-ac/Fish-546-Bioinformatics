@@ -61,14 +61,3 @@ reps.t<-t(cg.reps)
 reps.tra<-(reps.t+1)
 reps.tra<-data.trans(reps.tra, method='log', plot=F)
 
-
-
-library(RColorBrewer)
-
-brewer.pal(3,'Blues')
-
-"#DEEBF7" "#9ECAE1" "#3182BD"
-
-brewer.pal(3,'Oranges')
-
-"#FEE6CE" "#FDAE6B" "#E6550D"
