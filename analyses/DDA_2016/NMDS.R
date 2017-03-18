@@ -1,5 +1,12 @@
 oysterproteins2016<-read.csv('/Users/rhondae/Desktop/2016DDA/Abacus_3_5_17/ABACUS_output_edited_3_5_17.csv')
 
+install.packages("vegan")
+library(vegan)
+install.packages("raster")
+libary(raster)
+install.packages("RColorBrewer")
+library(RColorBrewer)
+
 silo1<-cbind(oysterproteins2016[1],oysterproteins2016[3],oystersproteins2016[11],oysterproteins2016[19],oystersproteins2016[27],oystersproteins2016[35],oystersproteins2016[43],oystersproteins2016[51])
 
 cg.reps<-read.csv('/Users/rhondae/Desktop/2016DDA/Abacus_3_5_17/ABACUS_ADJNSAF.csv',header=T,row.names=1)
