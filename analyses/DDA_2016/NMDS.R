@@ -1,5 +1,3 @@
-oysterproteins2016<-read.csv('/Users/rhondae/Desktop/2016DDA/Abacus_3_5_17/ABACUS_output_edited_3_5_17.csv')
-
 install.packages("vegan")
 library(vegan)
 install.packages("raster")
